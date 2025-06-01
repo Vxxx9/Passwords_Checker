@@ -73,10 +73,10 @@ def check_password_strength(password, lang="ar"):
 def main():
     """
     """
-    # تحديد اللغة
+    
     lang_choice = input("🌐 اختر اللغة (ar/en): ").strip().lower()
     if lang_choice not in ["ar", "en"]:
-        lang_choice = "ar"  # الافتراضية: عربي
+        lang_choice = "ar"  
 
     print(messages[lang_choice]["welcome"])
     password = input(messages[lang_choice]["enter_password"])
