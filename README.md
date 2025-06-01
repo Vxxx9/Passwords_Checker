@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+
 برنامج بسيط وقوي لتقييم قوة كلمات المرور، يدعم اللغتين العربية والإنجليزية.
 
 ---
@@ -15,4 +16,5 @@
    ```bash
    python3 password_strength_checker_multilang.py
 
-# Made by Yahya - 7y___y 
+# ![Made by Yahya](https://img.shields.io/badge/Made%20by-Yahya-orange)
+
